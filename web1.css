@@ -1,0 +1,38 @@
+body{
+
+}
+.content{
+	background-color:blue;
+}
+header{
+	background-color:green;
+}
+footer{
+	background-color:green;
+}	
+.content{
+	padding: 10px 15px 30px 15px;
+	width: 500px;
+	color:#ffffff;
+	position:center;
+}
+.content a{
+	color:red;
+}
+
+.blck{
+	margin: 2px;
+	float: left;
+    height: 70px;
+	width: 70px;
+    border: 5px solid #000080;  /* Параметры рамки */
+    border-color: #ffffff; /* Цвет фона */
+    padding: 7px; /* Поля вокруг текста */ 
+    border-top-left-radius: 10px; /* Левый нижний уголок */
+    border-bottom-right-radius: 10px; /* Правый нижний уголок 
+}
+h1, 
+ul > li, 
+:first-child, 
+:last-child, 
+:nth-child().
